@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-using-flex-9QHHz8QDP
+- Live Site URL: https://danielmbell.github.io/orderSummaryfrontEndMentor/
 
 ## My process
 
